@@ -38,7 +38,7 @@ The portfolio website is **mobile-friendly, interactive, and visually appealing*
  📫 Contact Me
 - Email: subhashinidevi66@gmail.com  
 - LinkedIn: [Subhashini Devi Inumula](https://www.linkedin.com/in/subhashini-devi-inumula-b82929374)  
-- **GitHub: [@isubhashini522](https://github.com/isubhashini522)
+- GitHub: [@isubhashini522](https://github.com/isubhashini522)
 
 
 
